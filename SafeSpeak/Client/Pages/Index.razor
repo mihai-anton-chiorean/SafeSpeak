@@ -1,0 +1,17 @@
+﻿@page "/"
+
+<h3>Welcome to SafeSpeak</h3>
+
+<button @onclick="NavigateToChat">Go to Chat</button>
+
+@code {
+    [Inject]
+    private NavigationManager Navigation { get; set; }
+
+    private void NavigateToChat()
+    {
+        Navigation.NavigateTo("chat");
+    }
+}
+
+

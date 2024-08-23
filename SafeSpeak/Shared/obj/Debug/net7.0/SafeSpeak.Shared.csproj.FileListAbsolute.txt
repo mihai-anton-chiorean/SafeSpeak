@@ -1,0 +1,11 @@
+C:\Users\mihai\source\repos\SafeSpeak\SafeSpeak\Shared\bin\Debug\net7.0\SafeSpeak.Shared.deps.json
+C:\Users\mihai\source\repos\SafeSpeak\SafeSpeak\Shared\bin\Debug\net7.0\SafeSpeak.Shared.dll
+C:\Users\mihai\source\repos\SafeSpeak\SafeSpeak\Shared\bin\Debug\net7.0\SafeSpeak.Shared.pdb
+C:\Users\mihai\source\repos\SafeSpeak\SafeSpeak\Shared\obj\Debug\net7.0\SafeSpeak.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihai\source\repos\SafeSpeak\SafeSpeak\Shared\obj\Debug\net7.0\SafeSpeak.Shared.AssemblyInfoInputs.cache
+C:\Users\mihai\source\repos\SafeSpeak\SafeSpeak\Shared\obj\Debug\net7.0\SafeSpeak.Shared.AssemblyInfo.cs
+C:\Users\mihai\source\repos\SafeSpeak\SafeSpeak\Shared\obj\Debug\net7.0\SafeSpeak.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mihai\source\repos\SafeSpeak\SafeSpeak\Shared\obj\Debug\net7.0\SafeSpeak.Shared.dll
+C:\Users\mihai\source\repos\SafeSpeak\SafeSpeak\Shared\obj\Debug\net7.0\refint\SafeSpeak.Shared.dll
+C:\Users\mihai\source\repos\SafeSpeak\SafeSpeak\Shared\obj\Debug\net7.0\SafeSpeak.Shared.pdb
+C:\Users\mihai\source\repos\SafeSpeak\SafeSpeak\Shared\obj\Debug\net7.0\ref\SafeSpeak.Shared.dll

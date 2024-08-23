@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vUZPLn1kb8g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mihai\\source\\repos\\SafeSpeak\\SafeSpeak\\Shared\\SafeSpeak.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mihai\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\mihai\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\mihai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

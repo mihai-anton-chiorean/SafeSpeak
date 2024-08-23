@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mihai\\source\\repos\\SafeSpeak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D508B5D9-B0CC-4AD0-9067-D3EF1C292560}|SafeSpeak\\Client\\SafeSpeak.Client.csproj|c:\\users\\mihai\\source\\repos\\safespeak\\safespeak\\client\\pages\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D508B5D9-B0CC-4AD0-9067-D3EF1C292560}|SafeSpeak\\Client\\SafeSpeak.Client.csproj|solutionrelative:safespeak\\client\\pages\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9A4E14-7916-4071-A50F-961B6B6C34B0}|SafeSpeak\\Server\\SafeSpeak.Server.csproj|c:\\users\\mihai\\source\\repos\\safespeak\\safespeak\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9A4E14-7916-4071-A50F-961B6B6C34B0}|SafeSpeak\\Server\\SafeSpeak.Server.csproj|solutionrelative:safespeak\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF9A4E14-7916-4071-A50F-961B6B6C34B0}|SafeSpeak\\Server\\SafeSpeak.Server.csproj|c:\\users\\mihai\\source\\repos\\safespeak\\safespeak\\server\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF9A4E14-7916-4071-A50F-961B6B6C34B0}|SafeSpeak\\Server\\SafeSpeak.Server.csproj|solutionrelative:safespeak\\server\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D508B5D9-B0CC-4AD0-9067-D3EF1C292560}|SafeSpeak\\Client\\SafeSpeak.Client.csproj|c:\\users\\mihai\\source\\repos\\safespeak\\safespeak\\client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D508B5D9-B0CC-4AD0-9067-D3EF1C292560}|SafeSpeak\\Client\\SafeSpeak.Client.csproj|solutionrelative:safespeak\\client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D508B5D9-B0CC-4AD0-9067-D3EF1C292560}|SafeSpeak\\Client\\SafeSpeak.Client.csproj|c:\\users\\mihai\\source\\repos\\safespeak\\safespeak\\client\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D508B5D9-B0CC-4AD0-9067-D3EF1C292560}|SafeSpeak\\Client\\SafeSpeak.Client.csproj|solutionrelative:safespeak\\client\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78CFA996-5817-42D2-BF39-1D2725A58765}|SafeSpeak\\Shared\\SafeSpeak.Shared.csproj|c:\\users\\mihai\\source\\repos\\safespeak\\safespeak\\shared\\sharedclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CFA996-5817-42D2-BF39-1D2725A58765}|SafeSpeak\\Shared\\SafeSpeak.Shared.csproj|solutionrelative:safespeak\\shared\\sharedclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\mihai\\source\\repos\\SafeSpeak\\SafeSpeak\\Client\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "SafeSpeak\\Client\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\mihai\\source\\repos\\SafeSpeak\\SafeSpeak\\Client\\Pages\\Index.razor",
+              "RelativeToolTip": "SafeSpeak\\Client\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T23:44:02.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\mihai\\source\\repos\\SafeSpeak\\SafeSpeak\\Client\\MainLayout.razor",
+              "RelativeDocumentMoniker": "SafeSpeak\\Client\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\mihai\\source\\repos\\SafeSpeak\\SafeSpeak\\Client\\MainLayout.razor",
+              "RelativeToolTip": "SafeSpeak\\Client\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T23:43:33.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SharedClass.cs",
+              "DocumentMoniker": "C:\\Users\\mihai\\source\\repos\\SafeSpeak\\SafeSpeak\\Shared\\SharedClass.cs",
+              "RelativeDocumentMoniker": "SafeSpeak\\Shared\\SharedClass.cs",
+              "ToolTip": "C:\\Users\\mihai\\source\\repos\\SafeSpeak\\SafeSpeak\\Shared\\SharedClass.cs",
+              "RelativeToolTip": "SafeSpeak\\Shared\\SharedClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:42:27.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chat.razor",
+              "DocumentMoniker": "C:\\Users\\mihai\\source\\repos\\SafeSpeak\\SafeSpeak\\Client\\Pages\\Chat.razor",
+              "RelativeDocumentMoniker": "SafeSpeak\\Client\\Pages\\Chat.razor",
+              "ToolTip": "C:\\Users\\mihai\\source\\repos\\SafeSpeak\\SafeSpeak\\Client\\Pages\\Chat.razor",
+              "RelativeToolTip": "SafeSpeak\\Client\\Pages\\Chat.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T23:40:37.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\mihai\\source\\repos\\SafeSpeak\\SafeSpeak\\Server\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "SafeSpeak\\Server\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\mihai\\source\\repos\\SafeSpeak\\SafeSpeak\\Server\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "SafeSpeak\\Server\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:36:31.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mihai\\source\\repos\\SafeSpeak\\SafeSpeak\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "SafeSpeak\\Server\\Program.cs",
+              "ToolTip": "C:\\Users\\mihai\\source\\repos\\SafeSpeak\\SafeSpeak\\Server\\Program.cs",
+              "RelativeToolTip": "SafeSpeak\\Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:33:51.62Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
